@@ -1,5 +1,8 @@
 <h2 align="center">👋 Hi ...! My name is Kaung Thant Zin.</h2>
+<img align="right" width="50" height="50" src="https://cultofthepartyparrot.com/flags/hd/myanmarparrot.gif"  />
 <h3 align="center">I'm a passionate junior web developer from Yangon, Myanmar.</h3>
+<img align="right" width="50" height="50" src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif"  />
+
 
 ###
 
@@ -11,6 +14,12 @@
 
 ###
 
+<hr>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaungThantZin2021.KaungThantZin2021&"  />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaungThantZin2021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaungThantZin2021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -19,15 +28,11 @@
 
 ###
 
-###
-
-<img align="right" width="80" height="80" src="https://cultofthepartyparrot.com/flags/hd/myanmarparrot.gif"  />
-
-<img align="right" width="80" height="80" src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif"  />
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php"  />
   <img width="12" />
 
@@ -81,21 +86,26 @@
 
 ###
 
-<div align="center">
-  <a href="mailto:kaungthantzin409@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
-  </a>
+<hr>
 
-  <a href="https://www.linkedin.com/in/kaungthantzin2022/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
+<div align="left">
+  <a href="mailto:kaungthantzin409@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100072869688526">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook"  />
+  <a href="https://www.linkedin.com/in/kaungthantzin2022/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
-  <a href="https://www.instagram.com/kaungthantzin409/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"  />
+  <a href="https://twitter.com/KaungTZ2021" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100072869688526" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/kaungthantzin409/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19040342/kaung-thant-zin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
