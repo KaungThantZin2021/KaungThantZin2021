@@ -5,25 +5,29 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF70FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;မင်္ဂလာပါ..&hearts;++;I+am+a+junior+web+developer,;working+at+Starfish+Myanmar+now,;active+learner/researcher,;love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF70FF&size=20&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;မင်္ဂလာပါ..&hearts;++;I+am+a+junior+web+developer,;working+at+Starfish+Myanmar+now,;active+learner/researcher,;love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaungthantzin2021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaungthantzin2021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaungThantZin2021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaungThantZin2021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KaungThantZin2021&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" width="150" height="150" src="https://cultofthepartyparrot.com/flags/hd/myanmarparrot.gif"  />
+###
 
-<img align="right" width="150" height="150" src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif"  />
+<img align="right" width="80" height="80" src="https://cultofthepartyparrot.com/flags/hd/myanmarparrot.gif"  />
+
+<img align="right" width="80" height="80" src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php"  />
   <img width="12" />
 
@@ -77,7 +81,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:kaungthantzin409@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
   </a>
@@ -100,7 +104,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="800" alt="Snake animation" />
 </div>
 
 ###
