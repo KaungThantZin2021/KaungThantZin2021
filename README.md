@@ -17,7 +17,7 @@
 <hr>
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaungThantZin2021.KaungThantZin2021&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaungThantZin2021.KaungThantZin2021&" />
 </div>
 
 <div align="center">
