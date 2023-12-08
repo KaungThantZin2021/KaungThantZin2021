@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi ...! My name is Kaung Thant Zin.</h2>
 <img align="right" width="50" height="50" src="https://cultofthepartyparrot.com/flags/hd/myanmarparrot.gif"  />
-<h3 align="center">I'm a passionate junior web developer from Yangon, Myanmar.</h3>
+<h3 align="center">I'm a passionate mid-level web developer from Yangon, Myanmar.</h3>
 <img align="right" width="50" height="50" src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif"  />
 
 
