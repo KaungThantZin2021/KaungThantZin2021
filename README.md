@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi ...! My name is Kaung Thant Zin.</h2>
 <img align="right" width="50" height="50" src="https://cultofthepartyparrot.com/flags/hd/myanmarparrot.gif"  />
-<h3 align="center">I'm a passionate mid-level web developer from Yangon, Myanmar.</h3>
+<h3 align="center">I'm a passionate web developer from Yangon, Myanmar.</h3>
 <img align="right" width="50" height="50" src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif"  />
 
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF70FF&size=20&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;မင်္ဂလာပါ..&hearts;++;I+am+a+mid-level+web+developer,;working+at+Starfish+Myanmar+now,;active+learner/researcher,;love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF70FF&size=20&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;မင်္ဂလာပါ..&hearts;++;I+am+a+web+developer,;working+at+Starfish+Myanmar+now,;active+learner/researcher,;love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
